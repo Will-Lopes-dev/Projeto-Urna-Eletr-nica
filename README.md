@@ -1,0 +1,1 @@
+Projeto do curso B7WEB, realizado em javascript para pôr em prática o que foi ensinado ao decorrer do curso.
